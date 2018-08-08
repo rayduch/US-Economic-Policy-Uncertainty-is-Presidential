@@ -1,7 +1,7 @@
 ###-------ECONOMIC MANAGEMENT APPROVAL--###
-###-----------GENERAL SETUP-------------###
 ###-------------Mats Ahrenshop----------###
 
+###-----------GENERAL SETUP-------------###
 setwd("C:\\Users\\User\\Downloads")
 pe <- read.csv2("Presidential Economic Management.csv")
 pe$date <- ISOdate(pe$Year, pe$Month, pe$Day)
