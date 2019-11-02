@@ -1,8 +1,8 @@
-# US-Economic-Policy-Uncertainty-is-Presidential
+# U.S. Economic Policy and Consumer Sentiment
 
 Rodrigo Caputo --- Raymond M. Duch
 
-In this paper we investigate the extent to which policy uncertainty affects USA consumer confidence from 1985 to 2018. In doing so, we estimate the impact of an empirical measure of policy uncertainty on consumer confidence after controlling for several observable macroeconomic and political variables. We conclude that uncertainty has a negative impact on consumer confidence, after controlling for inflation, output, unemployment, real wages and stock market prices. This result is robust to the inclusion of political variables, such as the approval rate of the president. We conclude that a given shock to economic policy uncetainty has smaller effect under Trump administration. In the case of the other administrations, this shock is transmitted in a similar fashion.
+There are three distinct data modules that make up this dataset.  Data module 1 consists of the principal dependent variable in Caputo and Duch, 2019, U.S. Economic Policy and Consumer Sentiment: the President’s Handling of the Economy – the index constructed is based on 895 surveys conducted over the period 1981.04 to 2018.06.  The variable is unique because the authors create a single index (based on Stimson 1999) using similarly worded survey items from different studies over time. It will be of interest for the research of economists and public opinion scholars.  A second module consists of four different extensive time series measure of consumer sentiment from University of Michigan, the Conference Board, and the OECD.  A third module consists of secondary data that are control variables in the Caputo and Duch (2019) analyses: time series of macro-economic variables, the Economic Policy Uncertainty measure from Baker et al (2016), an alternative measure of macro-economic policy management from the University of Michigan, and a time series of U.S. Presidential Approval.
 
 This repository contains:
 -- R code
